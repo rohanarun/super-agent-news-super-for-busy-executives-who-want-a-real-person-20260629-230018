@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[nytimes.com](https://www.nytimes.com/2026/06/08/technology/ai-busy-executives-productivity.html)",
+    "[apps.apple.com](https://apps.apple.com/us/app/super-real-time-ai-assistant/id6758969961)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px_max_2.4_lines; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=competitors_all_present; CTA_contrast=black_on_paper_verified",
+  "generated_at": "2026-06-29T23:00:25.319768+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A conversion\u2011focused niche landing page for busy executives who want a real personal assistant \u2014 not another chat window. This page uses current reporting on computer\u2011use AI agents and executive productivity to show why Super\u2019s computer\u2011operating agents, with a reusable computer-use cache, are better suited for repeated executive workflows than chat\u2011first tools like Siri, ChatGPT, Gemini, Grok, Folk, or Orchids."
+}
